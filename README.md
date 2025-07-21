@@ -1,13 +1,13 @@
 # BrickCommander
 
-## Project: make-brickcommander
+**Project:** `make-brickcommander`
 
-### Brief
+## Brief
 
 **BrickCommander** is an ESP32-based **command dispatcher** for LEGO®, BuWizz, and custom BLE-controlled devices.  
-It accepts commands over MQTT and forwards them to the appropriate BLE device.  
-Designed for modularity, scalability, and fun!  
-This is an educational, non-commercial project for personal and learning purposes only.
+It connects to your Wi-Fi and MQTT broker, listens for commands, and forwards them to the appropriate BLE brick.  
+
+Designed to be modular, scalable, and fun — this is an educational, non-commercial project for personal and learning purposes only.
 
 ---
 
