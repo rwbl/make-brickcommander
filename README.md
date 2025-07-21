@@ -41,6 +41,16 @@ This project demonstrates and teaches:
 
 ---
 
+## Prototype
+
+<img width="553" height="419" alt="image" src="https://github.com/user-attachments/assets/72d7e7f6-4ef1-4071-b1dd-eb3b141584a9" />
+
+## Communication
+
+<img width="825" height="458" alt="image" src="https://github.com/user-attachments/assets/0e99ece6-6aa5-4044-986b-81d73813a3ac" />
+
+---
+
 ## Hardware
 
 - ESP-WROOM-32 for the BrickCommander.
