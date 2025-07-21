@@ -1,1 +1,37 @@
+# Arduino / PlatformIO
+*.bin
+*.elf
+*.hex
+*.map
+*.d
+*.dep
+*.o
+*.a
+
+# Arduino IDE build folders
+.build/
+.pio/
+.pioenvs/
+.pio/libdeps/
+.vscode/
+
+# Mac/Windows noise
+.DS_Store
+Thumbs.db
+
+# Python (if you include PySide6 client)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+
+# Logs
+*.log
+
+# Secrets (if you create one — adjust as needed)
+secrets.h
+*.bak
+*.swp
 
