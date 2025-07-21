@@ -5,7 +5,7 @@ Defines MQTT and GUI defaults for the application.
 """
 
 # MQTT Broker
-MQTT_BROKER = "192.168.1.94"
+MQTT_BROKER = "NNN.NNN.NNN.NNN"
 MQTT_PORT = 1883
 MQTT_TOPIC_COMMAND = "brickcommander/command"
 MQTT_TOPIC_RESPONSE = "brickcommander/status"
