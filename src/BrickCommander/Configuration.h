@@ -14,10 +14,10 @@ namespace CONFIG {
     constexpr const char* PROJECT_NAME      = "BrickCommander";
     constexpr const char* VERSION           = "20250721";
 
-    constexpr const char* WIFI_SSID         = "Zuse";
-    constexpr const char* WIFI_PASSWORD     = "83425399897672098612";
+    constexpr const char* WIFI_SSID         = "***";
+    constexpr const char* WIFI_PASSWORD     = "***";
 
-    constexpr const char* MQTT_BROKER       = "192.168.1.94";
+    constexpr const char* MQTT_BROKER       = "NNN.NNN.NNN.NNN";
     constexpr uint16_t    MQTT_PORT         = 1883;
     constexpr const char* MQTT_USERNAME     = "";
     constexpr const char* MQTT_PASSWORD     = "";
