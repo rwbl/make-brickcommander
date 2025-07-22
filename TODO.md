@@ -1,6 +1,6 @@
 # TODO
 
-## Project make-brickcontroller
+**Project:** `make-brickcommander`
 
 ## NEW: CustomBrick ESP32 with BLE
 Create a Custom Brick acting as a BLE server (Nordic UART Service) which Handles BLE commands and forwards them to CommandHandler.
