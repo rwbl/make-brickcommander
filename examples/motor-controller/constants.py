@@ -1,5 +1,5 @@
 """
-BrickCommander - constants
+Motor-Controller - constants
 --------------------------
 Defines MQTT and GUI defaults for the application.
 """
@@ -11,7 +11,7 @@ MQTT_TOPIC_COMMAND = "brickcommander/command"
 MQTT_TOPIC_RESPONSE = "brickcommander/status"
 
 # Window settings
-WINDOW_TITLE = "BrickCommander Controller v20250718"
+WINDOW_TITLE = "BrickCommander Motor Controller v20250718"
 WINDOW_ICON_PATH = "brick_icon_24x24.png"
 WINDOW_WIDTH = 550
 WINDOW_HEIGHT = 350
