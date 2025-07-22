@@ -1,0 +1,14 @@
+[
+    {
+        "name": "BuWizz2 Port A",
+        "controller": "buwizz2",
+        "mac": "50:FA:AB:38:A6:1A",
+        "port": 0
+    },
+    {
+        "name": "LEGOHubNo4 Port A",
+        "controller": "legohubno4",
+        "mac": "90:84:2B:C1:94:79",
+        "port": 0
+    }
+]
