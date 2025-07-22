@@ -14,6 +14,12 @@ Hardware based on the ESP32 MCU, like the ESP-WROOM-32, M5Stack ATOM Lite ESP32 
 ```
 ---
 
+## NEW: CustomBrick Raspberry Pi Pico with BLE
+As CustomBrick ESP32 with BLE, but then using the Raspberry Pi Pico 2 WH.
+### Status
+Not started.
+---
+
 ## NEW: BrickCommander Clients
 - Node-RED
 - Home Assistant
