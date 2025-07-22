@@ -1,9 +1,9 @@
-# README - BrickCommander Python GUI
+# README - Motor Controller
 Project: make-brickcommander
 
 ## Brief
-BrickCommander is a **Python PySide6-based graphical controller** for LEGO®, BuWizz, and custom BLE-powered bricks, communicating via MQTT.  
-It complements the ESP32-based BrickCommander firmware by providing a user-friendly desktop interface.
+**Motor Controller** is a **Python PySide6-based graphical controller** for LEGO®, BuWizz, and custom BLE-powered bricks, communicating via MQTT.  
+It complements the ESP32-based **BrickCommander** firmware by providing a user-friendly desktop interface.
 
 ## Features
 
