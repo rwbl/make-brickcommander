@@ -2,11 +2,17 @@
 
 ## Project make-brickcontroller
 
-## NEW: Configuration Update OTA
-Option to set the WiFi secrets & MQTT broker IP & port over-the-air.
-See IDEAS.md.
+## NEW: CustomBrick ESP32 with BLE
+Create a Custom Brick acting as a BLE server (Nordic UART Service) which Handles BLE commands and forwards them to CommandHandler.
+Hardware based on the ESP32 MCU, like the ESP-WROOM-32, M5Stack ATOM Lite ESP32 Development Kit + TailBAT Power Module.
 ### Status
-Not started.
+Started developing the CustomBrick with the ESP-WROOM-32 handling commands JSON format via BLE.
+Created simple Python test script using `bleak` for setting the onboard LED.
+Command example:
+```
+{"port":0,"power":100,"direction":"forward","disconnect":false}
+```
+---
 
 ## NEW: BrickCommander Clients
 - Node-RED
@@ -17,8 +23,12 @@ Not started.
 ### Status
 Not started.
 
-## NEW: Custom BLE-based ESP32 brick
-Create a custom BLE-based ESP32 brick using an ESP-WROOM-32 with dev-board.
-Use modules from the ESP32-BrickCommander, like MqttHandler, BLEController, CommandHandler...
+---
+
+## NEW: Configuration Update OTA
+Option to set the WiFi secrets & MQTT broker IP & port Over-The-Air (OTA).
+See IDEAS.md.
 ### Status
 Not started.
+
+---
