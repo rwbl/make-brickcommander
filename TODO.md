@@ -6,9 +6,9 @@
 Create a Custom Brick acting as a BLE server (Nordic UART Service) which Handles BLE commands and forwards them to CommandHandler.
 Hardware based on the ESP32 MCU, like the ESP-WROOM-32, M5Stack ATOM Lite ESP32 Development Kit + TailBAT Power Module.
 ### Status
-Started developing the CustomBrick with the ESP-WROOM-32 handling commands JSON format via BLE.
-Created simple Python test script using `bleak` for setting the onboard LED.
-Command example:
+* Started developing the CustomBrick with the ESP-WROOM-32 handling commands JSON format via BLE.
+* Created simple Python test script using `bleak` for setting the onboard LED.
+* Command example:
 ```
 {"port":0,"power":100,"direction":"forward","disconnect":false}
 ```
