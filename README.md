@@ -59,12 +59,15 @@ This project demonstrates and teaches:
 
 ## Software
 
-- Arduino IDE 2.3.6 with libraries:
+- Arduino IDE 2.3.6 - libraries:
   - `ArduinoJson`
   - `PubSubClient`
   - `ESP32 BLE`
-- MQTT Mosquitto broker with pub/sub clients.
-- Python 3.11.4 with PySide6 for the BrickCommander GUI Client.
+  - `ESP32 Board Manager 2.3.1`
+- MQTT - `Mosquitto` broker with pub/sub clients.
+- `Python` 3.11.4 - BrickCommander BLE communication tests and GUI Client example.
+- Python `PySide6` 6.9.1 (Qt for Python), `bleak` for BLE communication.
+- `Thonny` 4.1.7 - Python IDE.
 
 ---
 
